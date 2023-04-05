@@ -32,6 +32,8 @@ I hope this description helps you. Happy learning!
 
 [Day 02: Type conversions and simple methods](https://github.com/tarikkamat/Java/blob/main/course_day_002/src/Main.java)
 
+[Day 04: Conditional, String methods](https://github.com/tarikkamat/Java/blob/main/course_day_004/src/Main.java)
+
 
 
 
